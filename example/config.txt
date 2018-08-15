@@ -1,0 +1,2 @@
+Prefix plugins/CKMeans/example/
+Plugin CKMeans inputfile abundN.csv outputfile abundN.quanta.csv
