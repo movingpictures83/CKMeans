@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV (network)
 # Output: CSV (quanta)
-# Tested with: PluMA 1.0, R 3.2
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: CKMeans.1d.dp
 
 
 PluMA plugin that clusters data using the CKMeans (Wang and Song, 2011) algorithm.
